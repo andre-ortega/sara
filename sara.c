@@ -232,6 +232,7 @@ void checkchar(int row, int col) {
       execv("/usr/bin/ranger", NULL);
       exit(1);
     } else if(input == 'w'){
+      // write /home/roe/pix/wall/ to ~/.saraexit
       endwin();
       execlp("ranger", "ranger", "/home/roe/pix/wall/", NULL);
       exit(1);
