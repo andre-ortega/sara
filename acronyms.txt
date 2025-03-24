@@ -1,0 +1,26 @@
+A . APPLIED      . APPLICATION    .                . AREA
+B . BOOTED       . BINARY         .                . BANK
+C . COMPILED     .                .                .  
+D .              . DESKTOP        . DANGER         .  
+E .              .                .                .  
+F . FAST         .                . FEATURE        .  
+G .              .                .                .  
+H .              .                . HACKER         . HANDLE
+I .              . ITERATION      .                .  
+J .              .                .                .  
+K .              .                .                . KERNEL
+L .              .                .                .  
+M .              .                .                .  
+N .              .                .                .  
+O . OPEN         .                .                .  
+P .              .                .                .  
+Q .              .                .                .  
+R .              .                . RANGING        .  
+S . SPECIAL      .                . SCRIPTING      .  
+T .              .                . TESTING        .  
+U .              .                .                .  
+V . VARIED       .                . VARIABLE       . VAULT
+W .              .                .                . WAREZ
+X .              .                .                .  
+Y .              .                .                . YARD
+Z . ZONELESS     .                .                . ZONE
