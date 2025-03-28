@@ -4,9 +4,9 @@ C . COMPILED     .                .                .
 D .              . DESKTOP        . DANGER         .  
 E .              .                .                .  
 F . FAST         .                . FEATURE        .  
-G .              .                .                .  
+G . GAPLESS      .                .                . GADGET
 H .              .                . HACKER         . HANDLE
-I .              . ITERATION      .                .  
+I . ITERATIVE    . INSTALLATION   . IMAGING        .  
 J .              .                .                .  
 K .              .                .                . KERNEL
 L .              .                .                .  
@@ -16,7 +16,7 @@ O . OPEN         .                .                .
 P .              .                .                .  
 Q .              .                .                .  
 R .              .                . RANGING        .  
-S . SPECIAL      .                . SCRIPTING      .  
+S . SPECIAL      . SOFTWARE       . SCRIPTING      . STATION
 T .              .                . TESTING        .  
 U .              .                .                .  
 V . VARIED       .                . VARIABLE       . VAULT
