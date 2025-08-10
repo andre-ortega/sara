@@ -1,12 +1,12 @@
 A . APPLIED      . APPLICATION    .                . AREA
 B . BOOTED       . BINARY         .                . BANK
-C . COMPILED     .                .                .  
+C . COMPILED     .                .                . CONTRAPTION
 D .              . DESKTOP        . DANGER         .  
 E .              .                .                .  
 F . FAST         .                . FEATURE        .  
 G . GAPLESS      .                .                . GADGET
 H .              .                . HACKER         . HANDLE
-I . ITERATIVE    . INSTALLATION   . IMAGING        .  
+I . ITERATIVE    . INSTALLATION   . INSTALLATION   . IMAGE
 J .              .                .                .  
 K .              .                .                . KERNEL
 L .              .                .                .  
