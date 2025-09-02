@@ -1,13 +1,13 @@
 A . APPLIED      . APPLICATION    .                . AREA
 B . BOOTED       . BINARY         .                . BANK
 C . COMPILED     .                .                . CONTRAPTION
-D .              . DESKTOP        . DANGER         .  
-E .              .                .                .  
-F . FAST         .                . FEATURE        .  
+D .              . DESKTOP        . DOOM           . DESIGNATION
+E . ELITE        . ELECTRICAL     . EMBEDDED       . ELEMENT
+F . FOCUSED      .                . FEATURE        . FORTIFICATION
 G . GAPLESS      .                .                . GADGET
-H .              .                . HACKER         . HANDLE
-I . ITERATIVE    . INSTALLATION   . INSTALLATION   . IMAGE
-J .              .                .                .  
+H . HARDENED     . HASH           . HACKER         . HANDLE
+I . ITERATIVE    .                . IMAGING        . INSTALLATION
+J .              . JACK           .                . JURISDICTION
 K .              .                .                . KERNEL
 L .              .                .                .  
 M .              .                .                .  
@@ -15,10 +15,10 @@ N .              .                .                .
 O . OPEN         .                .                .  
 P .              .                .                .  
 Q .              .                .                .  
-R .              .                . RANGING        .  
+R . RADICAL      .                . RANGING        .  
 S . SPECIAL      . SOFTWARE       . SCRIPTING      . STATION
 T .              .                . TESTING        .  
-U .              .                .                .  
+U . UNBOUNDED    .                . UNDER          .  
 V . VARIED       .                . VARIABLE       . VAULT
 W .              .                .                . WAREZ
 X .              .                .                .  
