@@ -1,8 +1,8 @@
-A . APPLIED      . APPLICATION    .                . AREA
-B . BOOTED       . BINARY         .                . BANK
+A . ABSTRACTED   . APPLICATION    .                . AREA
+B . BESTIAL      . BINARY         .                . BANK
 C . COMPILED     .                .                . CONTRAPTION
-D .              . DESKTOP        . DOOM           . DESIGNATION
-E . ELITE        . ELECTRICAL     . EMBEDDED       . ELEMENT
+D .              . DESKTOP        . DOOM           . DESIGNATOR
+E . ELITE        . ELECTRICAL     . EMBEDDED       .
 F . FOCUSED      .                . FEATURE        . FORTIFICATION
 G . GAPLESS      .                .                . GADGET
 H . HARDENED     . HASH           . HACKER         . HANDLE
@@ -10,15 +10,15 @@ I . ITERATIVE    .                . IMAGING        . INSTALLATION
 J .              . JACK           .                . JURISDICTION
 K .              .                .                . KERNEL
 L .              .                .                .  
-M .              .                .                .  
-N .              .                .                .  
+M . MEMORY       . MANAGEMENT     . MAGNETIC       . MACHINE
+N . NORMALIZED   .                .                .
 O . OPEN         .                .                .  
-P .              .                .                .  
+P .              .                .                . PACKAGE 
 Q .              .                .                .  
 R . RADICAL      .                . RANGING        .  
 S . SPECIAL      . SOFTWARE       . SCRIPTING      . STATION
-T .              .                . TESTING        .  
-U . UNBOUNDED    .                . UNDER          .  
+T .              . TESTED         . TORVALDIAN     .
+U . UNBOUNDED    . UNIX           .                . UTILITY
 V . VARIED       .                . VARIABLE       . VAULT
 W .              .                .                . WAREZ
 X .              .                .                .  
