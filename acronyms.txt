@@ -6,7 +6,7 @@ E . ELITE        . ELECTRICAL     . EMBEDDED       .
 F . FOCUSED      .                . FEATURE        . FORTIFICATION
 G . GAPLESS      .                .                . GADGET
 H . HARDENED     . HASH           . HACKER         . HANDLE
-I . ITERATIVE    .                . IMAGING        . INSTALLATION
+I . ITERATIVE    .                . IMAGING        . ISO
 J .              . JACK           .                . JURISDICTION
 K .              .                .                . KERNEL
 L .              .                .                .  
