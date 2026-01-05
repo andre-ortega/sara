@@ -10,7 +10,7 @@ I . ITERATIVE    .                . IMAGING        . ISO
 J .              . JACK           .                . JURISDICTION
 K .              .                .                . KERNEL
 L .              .                .                .  
-M . MEMORY       . MANAGEMENT     . MAGNETIC       . MACHINE
+M . MEMETIC      . MANAGEMENT     . MEMORY         . MACHINE
 N . NORMALIZED   .                .                .
 O . OPEN         .                .                .  
 P .              .                .                . PACKAGE 
