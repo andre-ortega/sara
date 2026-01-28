@@ -1,7 +1,7 @@
-A . ABSTRACTED   . APPLICATION    .                . AREA
-B . BESTIAL      . BINARY         .                . BANK
+A . ABSTRACTED   . APPLICATION    . ABSTRACTION    . AREA
+B . BESTIAL      .                . BINARY         . BANK
 C . COMPILED     .                .                . CONTRAPTION
-D .              . DESKTOP        . DOOM           . DESIGNATOR
+D .              . DESKTOP        . DOOM           . DESIGNATION
 E . ELITE        . ELECTRICAL     . EMBEDDED       .
 F . FOCUSED      .                . FEATURE        . FORTIFICATION
 G . GAPLESS      .                .                . GADGET
@@ -13,13 +13,13 @@ L .              .                .                .
 M . MEMETIC      . MANAGEMENT     . MEMORY         . MACHINE
 N . NORMALIZED   .                .                .
 O . OPEN         .                .                .  
-P .              .                .                . PACKAGE 
+P . POLYMORPHIC  .                .                . PACKAGE 
 Q .              .                .                .  
 R . RADICAL      .                . RANGING        .  
-S . SPECIAL      . SOFTWARE       . SCRIPTING      . STATION
-T .              . TESTED         . TORVALDIAN     .
+S . SPECIAL      . SOFTWARE       . SCRIPTING      . SENTRY
+T . TACTICAL     . TESTED         . TORVALDIAN     .
 U . UNBOUNDED    . UNIX           .                . UTILITY
-V . VARIED       .                . VARIABLE       . VAULT
+V . VARIABLE     .                .                . VAULT
 W .              .                .                . WAREZ
 X .              .                .                .  
 Y .              .                .                . YARD
