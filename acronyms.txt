@@ -1,24 +1,24 @@
-A . ABSTRACTED   . APPLICATION    . ABSTRACTION    . AREA
+A . ABSTRACTED   . APPLICATION    . ABSTRACTED     . AREA
 B . BESTIAL      .                . BINARY         . BANK
 C . COMPILED     .                .                . CONTRAPTION
-D .              . DESKTOP        . DOOM           . DESIGNATION
+D .              . DESKTOP        . DYNAMIC        . DESIGNATION
 E . ELITE        . ELECTRICAL     . EMBEDDED       .
 F . FOCUSED      .                . FEATURE        . FORTIFICATION
 G . GAPLESS      .                .                . GADGET
 H . HARDENED     . HASH           . HACKER         . HANDLE
 I . ITERATIVE    .                . IMAGING        . ISO
 J .              . JACK           .                . JURISDICTION
-K .              .                .                . KERNEL
-L .              .                .                .  
+K . KINETIC      .                .                . KERNEL
+L .              .                .                . LEVEL
 M . MEMETIC      . MANAGEMENT     . MEMORY         . MACHINE
 N . NORMALIZED   .                .                .
 O . OPEN         .                .                .  
-P . POLYMORPHIC  .                .                . PACKAGE 
-Q .              .                .                .  
+P . POLYMORPHIC  .                .                . PAYLOAD
+Q . QUASI        .                .                .
 R . RADICAL      .                . RANGING        .  
-S . SPECIAL      . SOFTWARE       . SCRIPTING      . SENTRY
-T . TACTICAL     . TESTED         . TORVALDIAN     .
-U . UNBOUNDED    . UNIX           .                . UTILITY
+S . SPECIAL      . SOURCE         . SCRIPTING      . SENTRY
+T . TACTICAL     . TEST           . TORVALDIAN     . TRANSLATION
+U . UNAUTHORIZED . UNIX           .                . UTILITY
 V . VARIABLE     .                .                . VAULT
 W .              .                .                . WAREZ
 X .              .                .                .  
