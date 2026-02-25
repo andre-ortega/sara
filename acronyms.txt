@@ -2,7 +2,7 @@ A . ABSTRACTED   . APPLICATION    . ABSTRACTED     . AREA
 B . BESTIAL      .                . BINARY         . BANK
 C . COMPILED     .                .                . CONTRAPTION
 D .              . DESKTOP        . DYNAMIC        . DESIGNATION
-E . ELITE        . ELECTRICAL     . EMBEDDED       .
+E . EXCEPTIONAL  . ELECTRICAL     . EMBEDDED       . EXECUTOR
 F . FOCUSED      .                . FEATURE        . FORTIFICATION
 G . GAPLESS      .                .                . GADGET
 H . HARDENED     . HASH           . HACKER         . HANDLE
